@@ -7,7 +7,7 @@ Spot LB studies whether latency-sensitive services can meet **Service Level Obje
 
 ## Repository Contents
 - `paper/` — paper/report PDF
-- `results/` — evaluation artifacts (figures and tables)
+- `results/` — evaluation artifacts (figures and tables) referenced in the report
 
 ## Paper
 - `paper/spot-lb-paper.pdf`
@@ -34,12 +34,3 @@ All evaluation figures and tables are stored under `results/`:
 - `results/fig-11-scenario-03-response-times-overload-handoff.png`
 - `results/fig-12-scenario-04-response-times-non-overload-handoff.png`
 - `results/fig-13-scenario-04-response-times-overload-handoff.png`
-
-## Authors
-- Seoungdeok Jeon
-- Zachary Colburn
-- (Add additional collaborators as applicable)
-
-## Notes
-This repository is intended for **public sharing of the paper PDF and evaluation artifacts**.  
-If you later add implementation details, include a separate reproducibility document with exact environment and commands.
